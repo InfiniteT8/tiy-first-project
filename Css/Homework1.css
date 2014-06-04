@@ -1,0 +1,40 @@
+body 
+{
+	font-family: 'Courier New',sans-serif;
+	line-height: 1.5;
+	background: black;
+}
+body
+
+{
+background-image:url('../mybackground.jpg');
+background-color:#cccccc;
+}
+
+p.oblique {font-style:oblique}
+p.normal {font-variant:normal;}
+p.small {font-variant:small-caps;}
+h1 {color:white;}
+h2 {color:orange;}
+p.me {color:rgb(255,115,53);}
+{text-decoration: underline;}
+q.ex {
+color: rgb(44, 199, 44);
+}
+
+.me
+{
+ color: orange;
+}
+ 
+.ex 
+{
+	
+	border-style: solid solid solid solid ;
+	color:rgb(255, 224, 0);
+}
+
+.fontaj
+{
+font-size:200;
+}
